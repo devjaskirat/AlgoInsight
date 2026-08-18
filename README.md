@@ -112,6 +112,6 @@ Pull requests and stars are welcome! For major changes, open an issue first to d
 This project is open-source under the MIT License.
 
 ## 🧑‍💻 Author
-Made with ❤️ by Ujjwal Kumar
+Made with ❤️ Jaskirat Singh
 
 
